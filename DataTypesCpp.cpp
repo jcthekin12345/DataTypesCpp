@@ -5,7 +5,8 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	// basic level progression variables
+	float base_exp{ 100 };
+	float scaling_factor{ 1.5 };
 
 }
-
